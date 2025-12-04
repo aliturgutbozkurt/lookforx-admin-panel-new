@@ -1,0 +1,26 @@
+
+> lookforx-admin-panel@0.1.0 dev
+> next dev
+
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /Users/aliturgutbozkurt/package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * /Users/aliturgutbozkurt/Desktop/dev/lookforx-microservices/lookforx-admin-panel/package-lock.json
+
+   ▲ Next.js 16.0.7 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://192.168.1.50:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 884ms
+ ○ Compiling /categories ...
+ GET /categories 200 in 4.2s (compile: 3.7s, render: 569ms)
+ GET /categories 200 in 30ms (compile: 4ms, render: 26ms)
+ ✓ Compiled in 124ms
+ GET /categories 200 in 373ms (compile: 76ms, render: 297ms)
+ GET /categories/7863ba00-4f08-47f1-97d9-5b06bb13d004 200 in 973ms (compile: 944ms, render: 29ms)
+ GET /categories 200 in 27ms (compile: 5ms, render: 22ms)
+ GET / 200 in 623ms (compile: 551ms, render: 72ms)
