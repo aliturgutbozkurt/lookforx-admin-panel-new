@@ -15,12 +15,15 @@
    - Environments: .env.local
 
  ✓ Starting...
- ✓ Ready in 884ms
- ○ Compiling /categories ...
- GET /categories 200 in 4.2s (compile: 3.7s, render: 569ms)
- GET /categories 200 in 30ms (compile: 4ms, render: 26ms)
- ✓ Compiled in 124ms
- GET /categories 200 in 373ms (compile: 76ms, render: 297ms)
- GET /categories/7863ba00-4f08-47f1-97d9-5b06bb13d004 200 in 973ms (compile: 944ms, render: 29ms)
- GET /categories 200 in 27ms (compile: 5ms, render: 22ms)
- GET / 200 in 623ms (compile: 551ms, render: 72ms)
+ ✓ Ready in 5.2s
+ ○ Compiling /forms ...
+ GET /forms 200 in 782ms (compile: 42ms, render: 739ms)
+ GET /forms/builder?id=8 200 in 39ms (compile: 10ms, render: 29ms)
+ GET /forms 200 in 35ms (compile: 4ms, render: 30ms)
+ GET /forms/builder?id=8 200 in 52ms (compile: 13ms, render: 38ms)
+ GET /forms 200 in 62ms (compile: 34ms, render: 28ms)
+ GET /forms/builder 200 in 18ms (compile: 5ms, render: 13ms)
+ GET /forms 200 in 94ms (compile: 35ms, render: 59ms)
+ GET /forms/builder?id=9 200 in 56ms (compile: 16ms, render: 39ms)
+ GET /forms 200 in 29ms (compile: 4ms, render: 25ms)
+ GET /reference-data 200 in 1739ms (compile: 1578ms, render: 162ms)
